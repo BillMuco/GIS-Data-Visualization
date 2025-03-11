@@ -19,12 +19,12 @@ To effectively present insights, the following visualizations were created:
 - Helps city planners and businesses assess road congestion and plan better infrastructure.
 
 ### 2. Interactive Maps with GPS Data (GIS Mapping in Power BI/QGIS)
-![GIS Traffic Flow Interactive Map ArcGIS](Images/GIS%20Traffic%20Flow%20Interactive%20Map%20ArcGIS.png)
+![GIS Traffic Flow interactive Map ArcGIS](Images/GIS%20Traffic%20Flow%20interactive%20Map%20ArcGIS.png)
 - Displays real-world geospatial locations with traffic intensity.
 - Enables real-time insights into high-traffic business zones for better decision-making.
 
 ### 3. Regional Distribution of Business Activity (Bubble Map)
-![Regional Business Activity Bubble Map Based on Traffic Flow](Images/Regional%20Business%20Activity%20Bubble%20Map%20Based%20on%20Traffic%20Flow.png)
+![Regional Business activity bubble map based on traffic Flow](Images/Regional%20Business%20activity%20bubble%20map%20based%20on%20traffic%20Flow.png)
 - Shows the concentration of business activity across different regions.
 - Helps in identifying prime locations for commercial expansion and investment.
 
